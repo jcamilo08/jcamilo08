@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @jcamilo08
 - 👀 I’m interested in programming.
-     As a hobby I have created a few apps for my employer. It has helped the company to digitize and automate several procedures.
+     As a hobby I have created a few apps for my employer. It has helped the company digitize and automate several procedures.
 - 🌱 I’m currently learning python and data science on freecodecamp.org
-- 💞️ I’m looking to collaborate someday.
-- 📫 How to reach me lorito.jcl@gmail.com
+- I have developpes a desktop application and web application used in an aerospace manufacturer company, to help the production and management of documents.
+- I am the founder of TailoredApp.
+- 📫 How to reach me jclopez@tailoredapp.ca
 
 <!---
 jcamilo08/jcamilo08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
