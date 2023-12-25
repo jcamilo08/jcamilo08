@@ -3,7 +3,7 @@
      As a hobby I have created a few apps for my employer. It has helped the company digitize and automate several procedures.
 - 🌱 I’m currently learning python and data science on freecodecamp.org
 - I have developpes a desktop application and web application used in an aerospace manufacturer company, to help the production and management of documents.
-- I am the founder of TailoredApp.
+- I am the founder of TailoredApp. https://www.tailoredapp.ca
 - 📫 How to reach me jclopez@tailoredapp.ca
 
 <!---
